@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3audioappstoragebh",
+  "bucketName": "audioapp-storage-bh",
+  "policyUUID": "5afacb5d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

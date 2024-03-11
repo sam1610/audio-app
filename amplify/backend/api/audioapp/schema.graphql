@@ -1,0 +1,7 @@
+type AudioRec @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  txt: String
+  imageUrl: String
+  audioUrl: String
+}
+ 
