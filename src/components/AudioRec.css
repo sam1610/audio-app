@@ -1,6 +1,5 @@
 
 body{
-
 background-color: #f0f0f0;
 font-family: Arial, Helvetica, sans-serif;
 display: flex;
@@ -35,4 +34,8 @@ margin: 0;
 }
 .btn-secondary:hover {
     background-color: #545b62;
+}
+.ft-size{
+    font-size:30px;
+    flex: auto;
 }
